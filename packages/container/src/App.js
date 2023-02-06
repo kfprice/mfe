@@ -3,7 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 import MarketingApp from "./components/MarketingApp";
 import Header from './components/Header';
 
-//Testing
+
 export default () => {
     return (
 <BrowserRouter> 
